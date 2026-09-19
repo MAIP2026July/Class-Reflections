@@ -10,8 +10,11 @@ I see developer say their story is completed once development is done.
   - Can I better write this?
   - Is code pushed to UAT enviroments for QA to test
 
-**The story that landed.** Your vast experince in Cards and various product domains of first internet banking payments. 40% OF USA user base using the card system built by you, which lasted for more than 18 years.
+**The story that landed.** 
+Your vast experince in Cards and various product domains of first internet banking payments. 40% OF USA user base using the card system built by you, which lasted for more than 18 years.
 The way your are upskilling on AI, your research on NLP.
+No job is thankless incluing PM unless you work on it and come back with more energy to solve a business/customer problem. Ex. We cant satisfy during annual reviews
+
 
 **Where I disagree.** None.
 
