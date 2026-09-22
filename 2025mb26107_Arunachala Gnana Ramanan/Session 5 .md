@@ -1,0 +1,6 @@
+Topic: Finding real opportunities for AI; jobs-to-be-done from the customer's side; "stay" vs. "finish and leave" products; midterm structure
+
+
+The ceiling-fan "double bearing" ad example was a great gut-check: customers don't pay extra just because a brand says a word, and today's customers are wise enough to smell a hollow AI claim the same way. That's a discipline our team needs when we pitch our project — I want us to be able to state, in one sentence, what specifically breaks or gets slower without the AI component, not just that AI is present.
+The distinction between products that should help a customer finish their job and leave (most utility software) versus products designed to keep people around (Netflix, Prime Video) reframed something I'd never explicitly separated before. It also explained why some of our own internal tools feel wrong when they're optimized for "engagement" metrics that were copied from consumer apps without asking whether that's actually the job the tool is meant to do.
+On a more practical note, the midterm structure is now clear enough that I can actually plan for it — two case-based questions, three one-page sub-answers each, typed strongly preferred. Small thing, but knowing the shape of the exam removes one source of low-value anxiety so I can spend the prep time on substance instead.
