@@ -1,7 +1,7 @@
 # Session 1 Reflection
 **Date:** 25 July 2026
 
-**Topic:** Introduction to Product Management and AI
+**Topic:** Introduction to Product Management and AI 
 
  The first session helped me understand the course structure and what the role of a Product Manager actually involves. Earlier, I thought that a PM mostly coordinates between different teams, follows timelines and ensures that the work is completed. After the discussion, I understood that the PM is responsible not only for coordinating the work but also for ensuring that the right problem is being solved.
  
