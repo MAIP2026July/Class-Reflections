@@ -1,0 +1,7 @@
+# Session 6 Reflection
+
+**Date:** 5 September 2026
+
+The idea that stayed with me from this session is that putting AI into a messy process only gives you a faster messy process. We were encouraged to treat the existing workflow like a black box: keep the output we want, but question whether the steps and inputs inside really need to be the way they are. I found that a useful way to think, because most processes look the way they do simply because they grew that way over time, not because someone designed them well. The part I'm less sure about is how far to go. If you change a workflow too much, people may find it hard to adopt, so I'm still working out where the balance is.
+
+I also learned a few practical things for writing our product document. Requirements should be written from a specific stakeholder's point of view, not a vague "user," and technical details belong somewhere else. And if a section of the template doesn't apply, we should say why instead of deleting it, which forces us to actually think about it. The build, buy or use-an-API discussion made me more aware of vendor dependence and of protecting our own data, since that is often what makes a product hard to copy. The point about hidden feelings stayed with me too: a product can have all the right features and still fail if people don't trust it or feel uncomfortable using it. For our assignment, I want to spend more time questioning the problem statement before getting attached to a solution.

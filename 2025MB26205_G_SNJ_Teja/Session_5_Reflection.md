@@ -1,0 +1,7 @@
+# Session 5 Reflection
+
+**Date:** 29 August 2026
+
+This class was about how to actually spot a good opportunity for AI, instead of looking at every process and wondering where AI could fit. The questions we were given were simple but useful: how often does the problem happen, how painful is it, is there data to work with, and how important is the decision involved? I realised I usually jump straight to the solution, so it was a good reminder to check that the problem is frequent and annoying enough to justify the effort. The point about products that help you finish a job and leave, versus products that want you to stay, was new to me. It made me see that "more time spent in the app" isn't always a good sign, especially for work tools.
+
+The other thing I'll remember is the focus on evidence. Saying an AI tool makes things faster or more accurate doesn't mean much unless you can show a before-and-after comparison. A new tool can feel exciting at first, but real value shows up when people keep using it without being pushed. Related to this, I hadn't thought enough about switching costs. Even a better solution can fail if people have to relearn their routine or enter the same information twice. I also noticed the human-in-the-loop idea coming back from last week, this time with the risk of tired reviewers approving everything. It left me with a simple checklist to try on our own idea: is the problem frequent, is it painful, can we prove it improved, and will people actually bother to switch?
