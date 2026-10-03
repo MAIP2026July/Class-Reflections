@@ -1,0 +1,7 @@
+# Session 1 Reflection
+
+**Date:** 25 July 2026
+
+Going into the first class, I thought a product manager was mostly the person who keeps everyone on the same page: talk to the business, talk to the tech team, make sure things move. The class shifted that for me. The idea that a PM owns the problem and the outcome, and not just the schedule, made the role feel a lot heavier than I expected. What I noticed is that "owning" doesn't seem to mean "controlling." A PM often doesn't get to decide the budget, the team or the tech stack, so the real work is making a sensible call with what you have and bringing people along without formal authority. I'm still a little unsure how that plays out in a big company, but it helped me see the role as more than coordination.
+
+The example that stuck with me was the database choice. The technically best option wasn't the right one because the team couldn't easily hire for it or maintain it later. It reminded me that "better" depends on the whole picture, not only the tech, and I think the same goes for picking an AI model: the most powerful one isn't always the one that makes business sense. I also liked the three ways AI shows up in product work: building with it, using it in PM work, and putting it inside the product. I had only ever thought about the third one. Something I'll carry forward is asking "should we build this?" and "what happens after it's built?" and not just "can we build this?"
