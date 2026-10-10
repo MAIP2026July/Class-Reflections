@@ -1,0 +1,13 @@
+# Session 2 Reflection
+
+1 August 2026 | Seelam Raviteja | 2025MB26062
+
+The distinction that changed my planning habits is simple and easy to ignore under a deadline. A project can be built for one named customer. A product has to survive contact with customers the team has not met yet.
+
+That difference is a business model choice, not a vocabulary choice. A custom workflow for one client can be profitable as services revenue. It becomes a trap if the company prices it like a product and then lets every new logo rewrite the core. The cost shows up later as a support load that grows with each exception, and as a roadmap that is really a queue of one-off promises. I would rather name the work honestly. If the problem cannot be generalized, sell the project, staff it as a project, and do not pretend the gross margin will look like software.
+
+The lifecycle discussion pushed the same point further. Discover, define, strategize, plan, build, launch, grow, and then renew or retire is a loop, not a finish line. Launch is a checkpoint where a defined set of customers can get a defined outcome. The credit-card story from class made the planning error concrete. The team treated beta as nearly done because authorization worked, and then discovered that settlement was still in front of them. The launch slipped by many months. The managerial lesson is about capacity, not about cards. If you spend the team's energy reaching a midpoint and call it the end, the second half is done by tired people. I would now ask, before any "beta" date, what must still be true after that date for a customer to complete the job.
+
+Two related ideas belong together: defer the cheap decisions, and record the expensive ones. Paint color can wait. The structure of the house cannot. In a product, a reversible interface choice can stay open. A choice about who the customer is, what data the company is allowed to hold, or which capability it must own should be settled while change is still cheap. Recording those calls is not bureaucracy if the team is spending someone else's capital. Without a trace from the decision into design, test, and the explanation a later manager will read, the company pays to rediscover its own reasoning. It is easy to remember the conclusion and forget the assumption that made it reasonable.
+
+"Good enough" is the judgement I am still learning to make. Waiting for a complete product protects the team from an embarrassing launch and also protects a competitor who shipped a narrower version. The standard I want is narrower than perfection: good enough for this customer, at this stage, with the risks we are willing to carry. That sentence forces a scope decision. It also forces an honest list of what we are not solving yet.
