@@ -1,0 +1,7 @@
+# Session 7 Reflection
+
+**Date:** 12 September 2026
+
+This session felt like the first time the earlier classes really came together. Pricing, customer support, data and AI all showed up in one discussion, and it became clear that they aren't separate topics. The electricity outage case was the best example. My first thought was to improve the call centre, maybe with a chatbot. But the better idea was to detect the outage ourselves and tell customers before they ever need to call. That changed how I saw the problem: the goal isn't to handle complaints faster, it's to make the complaint unnecessary. I also liked the point about uncertainty. If the system isn't sure, it should say so, or stay quiet, instead of sounding confident. That seems much more honest than a small "AI can make mistakes" note at the bottom of the screen.
+
+The pricing part was new for me. Instead of starting from cost, we looked at how much value the customer gets and tried to capture a fair share of it, with around 20% as a starting guess. I found it interesting that the people making the buying decision have their own goals and worries, even in a business setting. I'm still thinking about the point on launch not being the end. If a product depends on an outside AI provider and that provider changes the model or the price, the customer still blames our product. So vendor risk is clearly a product problem too, and not just something for the purchasing team. That's the takeaway I want to remember: the work continues long after launch.
