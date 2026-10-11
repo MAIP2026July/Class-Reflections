@@ -42,4 +42,4 @@ The idea that a product manager is the owner, not merely the coordinator, partic
 
 This session helped me see AI product management as less about managing technology and more about managing value, uncertainty, decisions, people, risks, and learning.
 
-My biggest personal shift is that I now see a product manager not simply as someone responsible for delivering a product, but as someone accountable for ensuring that the right product is built for the right problem and the right users, with a clear rationale behind important decisions. This is the mindset I want to carry forward from the course.
+My biggest personal shift is that I now see a product manager not simply as someone responsible for delivering a product, but as someone accountable for ensuring that the right product is built for the right problem and the right users, with a clear rationale behind important decisions. This is the mindset I want to carry forward from the session.
