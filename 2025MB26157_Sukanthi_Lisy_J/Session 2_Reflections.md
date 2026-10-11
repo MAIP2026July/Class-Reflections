@@ -1,4 +1,4 @@
-# Session 2 - Personal Reflection 
+# Session 2 - Personal Reflections 
 
 This session broadened my understanding of product management, particularly in the context of AI. My biggest takeaway was the Professor’s description of a product manager as both a creator and a trustee. The role goes beyond coordinating teams and delivering features; it involves making evidence-based decisions, managing risks, and taking ownership of outcomes.
 
