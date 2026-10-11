@@ -50,4 +50,4 @@ My biggest takeaway from the session is not a particular AI tool or framework, b
 
 To me, that is what differentiates an AI product manager from someone who simply knows how to use AI tools. Technologies and models will continue to evolve, but sound judgment, customer understanding, collaboration, and ownership of outcomes will remain essential.
 
-That is the lesson I hope to carry forward from this course, well beyond the classroom.
+That is the lesson I hope to carry forward from this session, well beyond the classroom.
