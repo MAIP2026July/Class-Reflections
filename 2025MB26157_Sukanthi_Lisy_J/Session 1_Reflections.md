@@ -1,4 +1,4 @@
-# Personal Reflection – Management of AI Products
+# Session 1 - Personal Reflections
 
 The first session of Management of AI Products shifted my perspective from viewing AI primarily as a technology to understanding how a product manager should think and make decisions in an AI-driven environment. What stood out to me was the Professor’s emphasis on starting with the problem, understanding the customer, and focusing on outcomes rather than simply adopting technology.
 
