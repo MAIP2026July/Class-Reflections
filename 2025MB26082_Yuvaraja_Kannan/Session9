@@ -1,0 +1,21 @@
+Session 9 
+In this session, I realised that evaluating an AI product is not just about checking whether the model is accurate. We need to understand whether 
+it creates real business value, protects customer trust, and makes the overall product better.
+
+One point I found interesting was the difference between traditional AI and generative AI. Traditional AI can be more predictable under 
+controlled conditions, whereas generative AI may produce different outputs even for similar inputs. This made me realise why testing 
+AI products cannot stop after development.
+
+I found the discussion on changing KPIs very relevant. As a product evolves, the metrics used to evaluate it should evolve as well. Revenue growth alone, 
+for example, may hide a decline in new customer acquisition or another emerging problem.
+This is something I can relate to in automation and AI delivery. It is not enough to report the number of automations 
+deployed or the hours saved. We also need to understand whether the process has become more reliable, whether users trust the solution, 
+and whether the expected business benefits are actually being realised.
+
+I realised that dashboards and KPIs influence how teams behave. If we reward the wrong measure, people may optimise for the number 
+rather than the actual objective.
+Going forward, I want to apply this thinking when evaluating automation and AI opportunities: define the expected business outcome, identify the risks 
+of incorrect decisions, select a small set of meaningful metrics, and continue monitoring performance after deployment.
+
+My biggest takeaway is that an AI product should not be judged only by how accurately its model performs, but by the business value it creates, 
+the risks it manages, and the trust it earns from its users.
