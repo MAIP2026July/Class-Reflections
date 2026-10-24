@@ -1,0 +1,24 @@
+
+Session: Responsible AI – Ethics, Risk and Responsibility
+Date: October 24, 2026
+
+In this session, I understood that building an AI product is not just about making it accurate or useful. 
+We must also ensure that it is fair, safe, and trustworthy.
+
+Professor explained how AI bias can arise from incomplete or unbalanced training data. The example of a child associating security guards with a 
+particular community helped me understand that bias can develop from limited exposure, even without intentional discrimination.
+
+Similarly, AI can produce unfair outcomes because of historical data, algorithms, or existing company policies.
+
+I also learnt that data privacy requires us to collect only what is necessary, obtain appropriate consent, and clearly define how long data will be retained. 
+In generative AI, hallucinations are another major risk. A product should know when to answer, when to abstain, and when to escalate a decision to a human.
+
+The discussion on governance helped me understand that product managers must balance innovation with responsibility. 
+Risk assessment should consider the likelihood and severity of an issue, whether it can be detected, and whether its effects can be reversed. 
+Depending on the risk, we may need a limited rollout, additional human review, or a delay in launch.
+
+I can relate these concepts to my work in HR automation and RPA. Automating a process is not enough if it produces incorrect or unfair outcomes.
+AI solutions in HR must protect employee and candidate data, provide appropriate human oversight, and have clear escalation mechanisms.
+
+My biggest takeaway is that responsible AI must be considered throughout the product lifecycle, not just before launch. 
+As product managers, we are accountable for balancing business value with fairness, privacy, safety, and customer trust.
