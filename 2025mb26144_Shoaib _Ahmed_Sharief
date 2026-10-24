@@ -1,0 +1,188 @@
+Session 1 Topic: AI Product Foundations and Why AI Became Commercially Viable
+Management of AI Products: Class Reflection
+1. Class Overview
+The first session asked a simple question: if you take the AI out, does the product actually change? We used that test to separate real AI products from ones that just carry an AI label, and then looked at why AI became usable in business now.
+2. Key Concepts and Discussions
+•	What counts as an AI product: AI can be the product itself, a decision layer inside a workflow, or an engine running quietly in the background. A decorative add-on doesn't count.
+•	Four patterns: prediction, recommendation, generation and hybrid. You classify by the user's job, not by the model.
+•	Why now: digital data, cloud compute, models available through APIs, and people already being used to the interfaces.
+3. Important Insights
+•	Swiggy as a hybrid: ranking, ETA prediction and fixed rules all running in one app. Most real products are a mix like this.
+•	India changes the design: languages, price sensitivity and trust expectations matter as much as the model does.
+4. Practical Learnings
+In marketing operations we get a lot of tools pitched as "AI-powered". I want to start running the remove-the-AI test on them before we sign anything.
+5. Conclusion
+I came in thinking of AI as one technology. I'm leaving with the view that it's a few distinct roles, and naming the role is where the thinking starts.
+Session 2 Topic: The AI Product Manager and the AI Product Stack
+Management of AI Products: Class Reflection
+1. Class Overview
+This class was about what an AI PM actually owns. The answer: the outcome and the quality of decisions, not every line of model code.
+2. Key Concepts and Discussions
+•	The stack: data, model, API/application, UX. Users feel whichever layer is weakest.
+•	Translation: the PM moves between data scientists, engineers, design and legal, and asks each a different question.
+•	Trade-offs: quality, latency, cost and scope pull against each other. You write down which one comes first.
+3. Important Insights
+•	Google Maps: the ETA you see sits on top of a lot of invisible prediction and routing. The visible part is small.
+•	Decisions left for launch become political: once deadlines hit, decisions get made on opinion, not evidence.
+4. Practical Learnings
+As a service expert I sit between marketing teams, IT and vendors, so a lot of my work is this kind of translation already. Next time a campaign tool feels slow or wrong, I'll go through the layers one by one instead of blaming "the system".
+5. Conclusion
+I liked that the PM doesn't have to be the deepest technical person in the room. My open question is how to tell when I do need to go deep, especially with a vendor's black box.
+Session 3 Topic: AI Product Strategy and Opportunity Identification I
+Management of AI Products: Class Reflection
+1. Class Overview
+We moved from what AI is to where it's worth using. The main point was that an opportunity is a workflow that gets meaningfully better, not a model that looks impressive.
+2. Key Concepts and Discussions
+•	Value x feasibility: an idea can be valuable but hard to execute, or easy to build but not worth much. You choose the risk-adjusted option.
+•	Build vs Buy vs API: own what gives you an edge, and borrow commodity capability when speed matters more.
+•	Feature vs platform: start as a feature, and only become a platform when demand repeats.
+•	JTBD: start from the progress the user is trying to make.
+3. Important Insights
+•	Support ticket routing beats a novelty chatbot: because it's frequent, painful and easy to measure.
+•	The HDFC exercise: comparing support, fraud, sales and knowledge retrieval made it clear you have to fund one and say no to the rest.
+4. Practical Learnings
+Our team has plenty of small AI ideas: asset tagging, request triage, copy drafts. Scoring them on pain, frequency and measurability would show which one deserves the first pilot. Most of them are probably API or Buy, not Build.
+5. Conclusion
+Saying no turned out to be part of strategy. That was harder to accept than I expected.
+Session 4 Topic: AI Product Strategy and Opportunity Identification II
+Management of AI Products: Class Reflection
+1. Class Overview
+This session was about what comes after the first trial: product-market fit, platforms, recommendation logic, and what makes an AI product hard to copy.
+2. Key Concepts and Discussions
+•	AI PMF: an important job, repeated success, trust, repeat use and economics that hold up. A viral launch proves nothing on its own.
+•	ChatGPT as a platform: broad reuse, but governance gets harder and reliability in specific workflows can be weaker.
+•	Recommendation logic: retrieve, set the objective, filter and rank, then test. What you optimize matters.
+•	Defensibility: workflow fit, data, distribution, trust, integration and how fast you learn. Having the model isn't enough.
+3. Important Insights
+•	Optimizing for clicks can hurt trust: you can grow engagement and lose satisfaction at the same time.
+•	Two products on the same model: the one with better workflow fit and feedback loops wins.
+4. Practical Learnings
+When we introduce a new tool, we usually celebrate how many people logged in during week one. I now think week-eight usage and how often people have to correct its output are the numbers to report.
+5. Conclusion
+Novelty gets people to try something. Only repeated value keeps them. I'll remember that when the next pilot looks great after a fortnight.
+Session 5 Topic: Designing AI Products for Uncertainty
+Management of AI Products: Class Reflection
+1. Class Overview
+Normal UX assumes the system is right. This class looked at designing for a system that might be wrong, and helping people act anyway.
+2. Key Concepts and Discussions
+•	Interaction modes: visible assistant, inline suggestion, background automation and invisible optimizer, each with its own risks.
+•	Handling uncertainty: show enough confidence, offer a fallback, let users correct, and send risky cases to a human.
+•	Human-in-the-loop vs on-the-loop: which one depends on how serious and reversible the consequences are.
+•	Prompt design is product design: instructions, context, examples, boundaries and fallback.
+3. Important Insights
+•	Perplexity's sources: showing where an answer came from builds trust in a way that fluent writing doesn't.
+•	Explanation should match the stakes: too much adds friction, too little kills confidence.
+4. Practical Learnings
+In life science marketing, anything customer-facing goes through medical, legal and regulatory review. AI-drafted content clearly needs a human in the loop at that step, while something like internal tagging can run with someone just monitoring it.
+5. Conclusion
+This felt like the most directly useful session for my job. Our review process is basically a human-in-the-loop design already, I just never called it that.
+Session 6 Topic: Data Fundamentals for Product Managers
+Management of AI Products: Class Reflection
+1. Class Overview
+The message here was that "we have data" means very little. What matters is whether the right signal exists, arrives on time, is fair, and can actually be used.
+2. Key Concepts and Discussions
+•	Data supply chain: collect, ingest, transform, label, serve, observe, and feed back.
+•	Sources: behavioral logs, transactional data and explicit feedback each have gaps.
+•	Labels are product decisions: a proxy label is cheaper, but it can optimize the wrong goal.
+•	Translation: business objective, decision, prediction target, features, threshold, then evaluation.
+•	Risks: missing data, biased samples, leakage, and consent.
+3. Important Insights
+•	BigBasket forecasting: the goal is having stock on the shelf, not offline accuracy. A regional failure can come from stale data or poor coverage.
+•	Accurate on the wrong target: a model can score well and still help nobody.
+4. Practical Learnings
+Campaign data in my team sits across CRM, email and event tools, and it often doesn't match. Consent is a real constraint in our industry, so privacy-conscious collection isn't optional for us.
+5. Conclusion
+Labels as a product decision was new to me. I want to check what our engagement scores really stand in for.
+Session 7 Topic: The AI Product Lifecycle
+Management of AI Products: Class Reflection
+1. Class Overview
+Shipping isn't the finish line. It's the point where you start being accountable for how the product runs. We followed the loop from discovery through validation, launch, monitoring and change.
+2. Key Concepts and Discussions
+•	Three gates: discovery (is this the right problem), validation (is it good enough for this use), launch (are the workflow, monitoring, fallback and owners ready).
+•	Limits of offline validation: it can't prove that users or the business are better off.
+•	Thresholds: where you set the threshold decides who carries the cost of errors.
+•	Fallback, override, rollback: each needs a clear trigger and an owner.
+•	Drift: the world changes after launch, so monitoring has to cover users, the model, the system and risk.
+3. Important Insights
+•	Decide escalation triggers before launch: once something breaks, it's too late to agree on what counts as a failure.
+•	A dashboard needs an action: each signal should have a threshold, an owner and a next step.
+4. Practical Learnings
+Our tool rollouts usually end at go-live. I want to add a simple post-launch checklist: who watches what, and which number means we pause.
+5. Conclusion
+This changed how I think about "done". With AI, I now see the launch as roughly the halfway point.
+Session 8 Topic: Revision and Integration of Sessions 1 to 7
+Management of AI Products: Class Reflection
+1. Class Overview
+The last session before the mid-sem pulled everything together. The goal wasn't to recall frameworks. It was to make a PM recommendation under time pressure.
+2. Key Concepts and Discussions
+•	The course in order: classify the AI, find the opportunity, decide on stack and sourcing, design for trust, check the data, then run and monitor.
+•	Answering a case: define the problem, take a position early, use one framework, give an example, name the downside, and say what evidence would change the decision.
+•	Make a decision: a weak answer describes AI, a strong one recommends build, pilot, delay, redesign or API.
+3. Important Insights
+•	One framework done well: listing every framework is worse than using one properly.
+•	The same order works for any case: from Swiggy to HDFC, the sequence holds.
+4. Practical Learnings
+I tried the sequence on a real question at work: should we pilot AI for routing incoming marketing service requests? It gave me a clear one-page recommendation faster than I expected.
+5. Conclusion
+Revision showed me the sessions build on each other. Strategy without data or lifecycle thinking falls apart, and putting them together is the actual skill.
+Session 9 Topic: Judging AI by the Economics of Its Errors: Payoff Matrices, Tail Risk,
+Experiments and Feedback Loops
+Management of AI Products: Class Reflection
+1. Class Overview
+This class judged AI by what its errors cost, not how often it's right. A loan example put a
+money value on each cell of the confusion matrix, and from there we moved to rare high-impact
+failures, A/B tests, feedback loops and vendor models that change without warning.
+2. Key Concepts and Discussions
+• Accuracy can mislead: when the cases that matter are rare, a model can score high
+while missing the very cases it exists to catch.
+• Payoff matrix: the model gives the error rates, and the business decides what each type
+of error is worth.
+• Tail risk: averages hide the rare bad case, so edge cases need deliberate testing.
+• A/B testing: a control group and standard error tell you if a difference is real. Things
+happening at the same time can muddy the result.
+• Feedback loops and vendor drift: heavy users can pull a product their way, and an
+external model can change without notice.
+3. Important Insights
+• Errors aren't equal: one costly miss can cancel out a lot of small wins.
+• Say what you're ignoring: every optimisation leaves something out, and that should be
+written down.
+• Where I differ: in life science, some errors, like a wrong product or safety claim reaching
+a customer, shouldn't be priced at all. They should be hard limits.
+4. Practical Learnings
+We use AI-assisted lead scoring in campaigns. A false positive wastes a sales call, while a
+false negative quietly loses a good account, and we've never compared the two costs. When
+we test email variants, I also want to note which campaigns and events are running at the same
+time.
+5. Conclusion
+I'll stop asking "how accurate is it?" and start asking "what does each mistake cost us?" My
+open question: when the bad cases are rare, how do we collect enough of them to know what
+we're missing?Session 10 Topic: Operating AI Products at Scale: Expectations, Latency, Routing, Throttling
+and Agent Governance
+Management of AI Products: Class Reflection
+1. Class Overview
+This session was about running AI once usage grows: shifting expectations, limits even in free
+products, how long waits feel, peak planning, routing between models, throttling, priority
+access, and governance for a growing number of agents.
+2. Key Concepts and Discussions
+• Limits are normal: even free products cap usage. The real question is who gets what,
+and how that's communicated.
+• Expectations move: what users tolerate today won't satisfy them next year, and planned
+downtime should be announced in advance.
+• Perceived latency: a steady, predictable wait with visible steps feels shorter than an
+erratic one.
+• Routing and throttling: send each task to the right model, keep a way to switch, and
+limit requests before the provider does it for you.
+• Caching: it saves cost, but one user's answer must never reach another user.
+• Agent governance: oversight has to grow faster than the number of agents.
+3. Important Insights
+• Decide on rationing early: otherwise peak demand ends up deciding it for you.
+• Where I differ: priority access suits paying tiers. For internal tools I'd rather protect
+critical, deadline-bound work than senior users.
+4. Practical Learnings
+Our peak is product-launch and congress season, when every brand team wants assets and
+translations at once. A light model could handle routine requests like tagging and resizing, with
+a stronger one for medical copy drafts. We're also adding small agents across tools without
+anyone clearly owning them, and that needs fixing before it grows.
+5. Conclusion
+I hadn't seen throttling as a product choice before. My question: how do we tell a brand team
+about a limit during a launch without it feeling like we're blocking them?
