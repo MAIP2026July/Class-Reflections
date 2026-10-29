@@ -1,0 +1,16 @@
+# Management of AI Products: Class 5
+
+This session covered how product managers spot and evaluate AI opportunities, starting from whether AI adds real customer value. It then moved to sourcing decisions (build, buy or partner), product-market fit, and designing AI experiences that handle uncertainty. A large part of the class was spent on human-in-the-loop design and its pitfalls. Along the way the session also covered the midterm format, the AI product stack, prompt design and the difference between portfolio and product management.
+
+## Core Concepts
+- **Value and feasibility together:** AI should be added only where it improves a customer's workflow. That means a frequent, painful, data-rich job where friction, trust or decision stress can be reduced. Every claim needs evidence from experiments, and the opportunity must also be feasible in cost, quality and autonomy and be priced so customers will actually pay.
+- **Sourcing and platform strategy:** Choose between build, buy (API or open-weight models) and partner, weighing vendor dependency, speed, control and governance. Own the capability that gives a competitive edge rather than the model itself. Platform and ecosystem bets are hard to reverse.
+- **Layered AI stack and UX for uncertainty:** An AI product has a data layer, a model layer, an API layer (to avoid lock-in) and a user experience layer. The UX layer must communicate confidence, fallbacks and errors honestly, and prompts need structure, iteration and version control.
+- **Human-in-the-loop design:** Decide where humans review, how cases are escalated and what context they are given. Weigh the cost of a right or wrong decision. Guard against reviewer fatigue and rubber-stamping with real accountability and sensible performance measures.
+
+## Reflections and Insights
+- **The customer's goal is to finish and leave.** Even products built to hold attention are really serving the customer's own wish to be entertained or to get something done. AI is judged by how quickly it lets people finish their job, not by how long they stay.
+- **Proof matters more than belief.** "I know it's valuable" is not enough. Running experiments and keeping evidence is a core PM skill, and it also cuts through slow, opinion-driven debate. A quick prototype can settle in days what a discussion cannot settle in weeks.
+- **Human oversight can be only for show.** If reviewers keep saying yes because AI sounds confident, or because they are measured on volume, the human in the loop adds nothing. The failure belongs to the system and its incentives, not the individual. A product manager therefore also has to manage the organization around the product.
+- **Strategy is only useful once it becomes decisions.** Opportunities should be time-boxed, sequenced as a series of bets and written up as a memo leaders can act on. A PM should be able to demo the product without help, which shows real ownership.
+- **Accountability cannot be delegated.** Experts can supply the numbers on tokens, cost and pricing, but the PM answers for the unit economics and for everything done in the product's name. The same logic applies to a portfolio manager, who sets a stable planning window so product owners can work with autonomy.
