@@ -1,4 +1,4 @@
-Session 5 Reflection - 28-Aug-2026
+Session 5 Reflection - 29-Aug-2026
 
 Session 5 made me rethink how I approach AI opportunities. Coming from a software development background, my natural tendency is often to start by thinking about what can be automated and how we can build it. One of my strongest takeaways from this session was that an AI Product Manager needs to step back and ask a more fundamental question first: What problem are we trying to solve, and does AI actually create enough value to justify using it?
 
