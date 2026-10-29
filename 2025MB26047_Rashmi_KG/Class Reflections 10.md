@@ -1,4 +1,4 @@
-Session 10 Reflection: Making the Right AI Trade-offs
+Session 10 Reflection: Making the Right AI Trade-offs 17-Oct-2026
 
 Session 10 made me think differently about what makes an AI product successful. Coming from a software development background, my instinct is often to focus on technical capability and performance. This session reminded me that the most powerful model is not necessarily the best choice. As a Product Manager, I also need to balance quality, speed, latency, cost, predictability, and user experience.
 
