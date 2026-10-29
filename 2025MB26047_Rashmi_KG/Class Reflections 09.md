@@ -1,4 +1,4 @@
-Session 9 Reflection: Managing AI Beyond Model Performance
+Session 9 Reflection: Managing AI Beyond Model Performance 10-Oct-2026
 
 One of my strongest takeaways from this session was that the most powerful AI model is not necessarily the best choice for a product. As someone from a software development background, I naturally tend to look at technical capability and performance first. This session made me think more broadly about the trade-offs between accuracy, latency, cost, reliability, and user experience.
 
