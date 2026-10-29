@@ -1,4 +1,4 @@
-Session 11 Reflection: Responsible AI Is a Product Decision
+Session 11 Reflection: Responsible AI Is a Product Decision 24-Oct-2026
 
 Session 11 made me think about Responsible AI in a much more practical way. My biggest takeaway was that responsibility cannot be reduced to a checklist with generic statements about fairness, privacy, and ethics. These concepts need to be defined in the context of the specific product, the people affected, and the decisions the AI is making.
 
