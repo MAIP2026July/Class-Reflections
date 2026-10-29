@@ -1,4 +1,4 @@
-# Managing AI Products: Class 2
+# Managing AI Products: Class 3
 
 This session continued a course on managing AI products. It walked through the full product life cycle, from discovering a problem to launch, general availability, growth, and eventually renewing or retiring the product. It covered the documents and evidence a product manager should keep, the common decision frameworks, and how AI changes each stage. It also covered the professional services and consulting roles around a product, and what skills an aspiring AI product manager needs.
 
