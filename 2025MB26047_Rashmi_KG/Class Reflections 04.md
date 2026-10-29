@@ -1,7 +1,7 @@
 Class Reflection 4: Making Reversible Decisions and Giving AI the Right Level of Autonomy
 
 Course: Management of AI Products
- Session: 4
+ Session: 4 29-Aug-2026
 
 My Reflection
 
