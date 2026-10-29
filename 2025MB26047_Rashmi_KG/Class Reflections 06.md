@@ -1,4 +1,4 @@
-Session 6 Reflection: Reimagining Problems and the Art of the Possible
+Session 6 Reflection: Reimagining Problems and the Art of the Possible 05-Sep-2026
 
 One idea from Session 6 that stayed with me was the“art of the possible.” AI capabilities are evolving quickly, and solutions that were expensive or impractical earlier can become feasible in a relatively short time. The session made me realize that an AI Product Manager needs to continuously understand what technology can enable while also questioning assumptions built into existing processes.
 
