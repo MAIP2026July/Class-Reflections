@@ -1,4 +1,4 @@
-Session 8 Reflection: Experimentation, Feedback and Choosing the Right Metrics
+Session 8 Reflection: Experimentation, Feedback and Choosing the Right Metrics 03-Oct-2026
 
 One of my strongest takeaways from this session was that AI product development is fundamentally experimental. When we are trying to solve a problem using AI, we may have a strong idea, but we do not know in advance whether it will work well enough in the actual business context. What we start with is essentially a hypothesis that needs to be tested and refined.
 
