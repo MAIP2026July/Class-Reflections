@@ -11,5 +11,7 @@
 **What stayed with me**
 The discussion on value capture and pricing: if the product creates value, the company should capture a fair share of it, and that should be anchored to the customer's benefit, not to our cost.
 
+We also discussed how AI changes competitive advantage. If everyone can access the same models, the advantage comes from data, workflow and customer understanding, not from the model itself. Regulation, ethics and inclusion were mentioned as things to plan for early, not after launch.
+
 **What I will take forward**
 When describing any product idea, I will start from the customer's progress ("what can they now do better?") instead of listing features.

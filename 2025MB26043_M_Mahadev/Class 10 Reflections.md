@@ -9,7 +9,9 @@
 - Choosing the right model is a business decision as well as a technical one.
 
 **What stayed with me**
-Customer expectations harden quickly. Something that feels like a novelty today becomes a basic expectation very soon.
+Customer expectations harden quickly. Something that feels like a novelty today becomes a basic expectation very soon. This means the bar keeps rising, and a product that was impressive at launch can feel average within months.
+
+Team collaboration and sustainable AI adoption were also discussed. Adoption has to be planned so that it lasts, not just pushed for a quick launch.
 
 **What I will take forward**
 Align the team on what the product must always guarantee, rather than on the technology stack.

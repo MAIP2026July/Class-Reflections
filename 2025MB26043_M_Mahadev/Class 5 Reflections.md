@@ -12,5 +12,7 @@
 **What stayed with me**
 The materiality filter: not every AI error matters equally, so focus effort on the errors that actually hurt the customer or the business.
 
+I also found the human-in-the-loop discussion practical. If the review step is slow or tiring, people will skip it, so it has to be designed to be easy to use. There was also healthy scepticism about the claim that new models will disrupt everything overnight.
+
 **What I will take forward**
 Experiment small before scaling, and be honest about which parts of the solution we really need to build ourselves.

@@ -12,5 +12,7 @@
 **What stayed with me**
 We cannot outsource accountability to AI. Ethics should not stay as "motherhood statements"; they need to become concrete, measurable actions.
 
+We also discussed hallucinations and the need to verify AI-generated output, for example by using RAG and source checks. When something does go wrong, clear and honest incident communication helps keep the customer's trust.
+
 **What I will take forward**
 Plan for continuous monitoring, audits and clear incident communication after launch.

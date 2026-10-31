@@ -11,5 +11,7 @@
 **What stayed with me**
 The question of who pays for the model's errors. Often it is the customer, not the company, and that should change how carefully we design.
 
+The "guitar on the motorcycle" example stuck with me: users will always use the product in ways we did not expect, so we have to design for situations we cannot fully predict. Experiments and evidence should guide decisions, and technology should be chosen based on business needs.
+
 **What I will take forward**
 Plan for the "unknown unknowns" and balance profitability with responsibility.

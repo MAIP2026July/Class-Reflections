@@ -11,5 +11,7 @@
 **What stayed with me**
 A real PM leads from the front and takes ownership of the whole product experience, including the parts they do not directly control.
 
+Supply chain risk was a new angle for me. If the product depends on an external model or API, any change in its price, quality or availability directly affects our customers. I also noted that "silence" from users is not always a good sign; it can mean they have quietly stopped using the product.
+
 **What I will take forward**
 Set clear boundaries on what the AI should and should not do, and keep building trust after launch, not just before it.

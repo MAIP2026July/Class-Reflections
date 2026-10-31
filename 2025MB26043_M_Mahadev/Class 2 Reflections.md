@@ -11,5 +11,7 @@
 **What stayed with me**
 The point that a PM is often spending someone else's money. That changes how carefully you should prioritise and how honestly you should report progress.
 
+The layering model was also useful: separating the product into layers makes it easier to change one part (like the AI model) without breaking everything else. Ownership and influence came up too; a PM often has responsibility without direct authority, so influence matters a lot.
+
 **What I will take forward**
 Keep a simple trail of why decisions were made (artifacts and traceability), so the reasoning is clear later, not just the outcome.

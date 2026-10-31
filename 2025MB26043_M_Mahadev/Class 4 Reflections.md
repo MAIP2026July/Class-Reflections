@@ -9,7 +9,9 @@
 - Customer value has to be balanced with business viability.
 
 **What stayed with me**
-The automation complacency point: when AI takes over routine work, people stop checking it, and they also lose the practice that made them good at the job.
+The automation complacency point: when AI takes over routine work, people stop checking it, and they also lose the practice that made them good at the job. Junior people especially learn by doing the "boring" work, so removing it completely can hurt long-term skill building.
+
+The actionable window example also made sense: a prediction is only useful if it comes early enough for someone to act on it.
 
 **What I will take forward**
 For any AI feature, ask early how users will actually adopt it and what happens in the worst case, not just the average case.
