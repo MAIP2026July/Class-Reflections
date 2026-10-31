@@ -1,4 +1,4 @@
-# Session 10: Growth will expose a broken model
+# Class 10: Growth will expose a broken model
 
 17 October 2026 | Neetesh Jain | 2025MB26095
 
