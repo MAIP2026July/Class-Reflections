@@ -1,0 +1,18 @@
+# Management of AI Products: Class 12
+
+## Introduction
+This session covered how to specify an AI product precisely enough to be built and managed predictably, and how to design its monetization. The first part dealt with removing ambiguity from product specifications through measurable targets, explicit workflows and clear stakeholders. The second part covered revenue design and pricing: value-based pricing, cost-to-serve, inference economics and platform strategy.
+
+## Core Concepts
+- **Unambiguous, contract-grade product specification:** Vague terms such as "accurate," "user-friendly" or "unsafe" create risk with engineering teams and vendors. Each should be defined with a metric, a measurement method and a numeric target, and a product should be built to be configurable and extensible rather than hard-coded.
+- **Workflows as code:** Workflows are best shown as swimlane diagrams written as text (PlantUML or Mermaid), with each step marked as deterministic or probabilistic/LLM-driven. These diagrams also show where AI is uncertain, where a human is in the loop, and what each step costs. Text-based diagrams are easy to version and cheaper for AI to read than images. The C4 model gives layered views of a system, and a product manager mainly needs the context and container levels.
+- **Value-based pricing and cost-to-serve:** Work backwards from what the customer will pay (target costing) rather than adding a margin to build cost. Customers value outputs and outcomes, while the vendor's costs are driven by inputs, so usage-based, outcome-linked, hybrid and subscription models each shift risk differently. Inference or API cost is the key variable cost and must be stress-tested for heavy users, usage spikes and rate limits.
+- **Unit economics, trade-offs and platform strategy:** The sweet spot between latency, cost, quality and trust is a product management decision. Pricing and architecture influence each other, and unbounded agentic loops can inflate costs. Contribution margin by workflow and segment, overhead spread across volume, retention and downgrades all matter, as do ecosystem and platform effects and the choice between standalone and embedded AI.
+
+## Reflection and Insights
+- **Ambiguity is a financial risk, not just a documentation flaw.** An undefined word in a specification becomes a dispute over scope and cost once a vendor interprets it differently from the product owner.
+- **Customers buy the value, not the product.** Insurance is bought for a safety net, and AI is bought for outcomes. Pricing, positioning and marketing should all follow from how each named stakeholder perceives value, so documents should name specific stakeholders instead of a generic "user."
+- **Generative AI breaks the usual cost assumptions.** Success can hurt margins, since heavier usage raises inference cost, and customers pay for tokens even when the output is poor or hallucinated. Choices about charging for unmet goals, capping loops and downgrading customers are pricing decisions as well as engineering ones.
+- **Architecture and economics are inseparable.** Licensing models have historically driven design decisions. A model-routing layer may save on tokens but add context-reset costs, so the trade-offs need to be measured rather than assumed.
+- **Growth is not automatically healthy.** Every new customer in a low-margin or negative-margin segment can erode overall margin, so a product manager should be able to explain unit economics in a minute and know which workflows and segments actually earn money.
+- **Competition now happens between ecosystems.** Platform value grows faster than user count, so aligning with or building an ecosystem is a strategic choice that sits alongside product quality.

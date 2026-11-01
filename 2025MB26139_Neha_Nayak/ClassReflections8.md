@@ -1,0 +1,17 @@
+# Management of AI Products: Class 8
+
+This session looked at how AI products behave once they leave the lab. It covered the unpredictability of generative AI tools and the limits of LLMs where deterministic outputs are needed. It also covered how a product moves from concept to prototype, MVP, pilot and scale, and why the product manager’s role matters at each stage. A running theme was designing for reuse, generalisation and a clearly defined customer.
+
+## Core Concepts
+- **Unpredictability of generative AI**: Provider-side instability can make the same tool and inputs perform differently over time. Self-hosted models with fixed weights, seed and temperature are far more stable. Models also do not retain learning between sessions, and AI can silently carry forward wrong assumptions during long-running tasks.
+- **Fit-for-purpose AI (LLM vs. RAG vs. deterministic)**: Probabilistic LLMs are a poor fit where exact, repeatable outputs are essential (e.g., rating or pricing engines). RAG, rule-based logic and API/tool calls often need to be combined into a hybrid, agentic solution. Simple RAG breaks down as data grows.
+- **Staged product development with gates**: Concept validation, prototype, MVP, pilot and scale each need a clear learning objective, a documented go/no-go decision and right-sized governance. Prototypes can answer the wrong question, and an MVP must prove value to the customer. Automation should be staged, with human-in-the-loop fallbacks and honesty about any manual effort behind the scenes.
+- **Customer clarity, reuse and generalisation**: Define one specific customer and their workflow, and build a generic product rather than a one-customer solution. Keep vendors and models pluggable and use hooks and wrappers so the product can be repurposed across markets and use cases.
+
+## Reflection & Insights
+**The PM becomes the bottleneck.** AI speeds up execution and floods the product manager with proposals and decisions. The real risk is approving by default (“just go ahead”) and later paying more to undo a wrong assumption than it would have cost to get it right. Protecting decision bandwidth, and knowing what to delegate, is a core skill.
+**Accountability cannot be delegated to AI.** Explainability, fairness and risk ownership remain with the product owner. Stakeholders and regulators will hold people responsible, not the model.
+**Not every problem needs an LLM.** The better move is often to apply AI to a narrower part of the problem, such as cleaning and standardising inputs before a human decision, rather than automating the highest-risk decision first. Choosing a non-AI approach when it fits is a sign of maturity.
+**Learn before you automate.** Premature automation and hidden manual labour both erode trust. Being transparent about what is manual, and using human-in-the-loop time as learning time, builds credibility with customers and teams.
+**Resilience, reuse and repurposing matter as much as the technology.** Markets, competitors and targets keep moving. A product manager who can repurpose a capability and spot new use cases for an apparent limitation can turn a failed fit into a new market.
+**Define success criteria up front.** Documenting decision criteria early, and avoiding endless requirement additions while waiting for the “perfect” customer, protects both the product and team morale.
