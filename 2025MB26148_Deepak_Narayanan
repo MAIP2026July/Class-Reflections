@@ -1,1 +1,44 @@
+Class 1 Individual Learning Notes
+Management of AI Products
+Deepak Narayanan | 2025mb26148| 
+1. My overall learning from Class 1
+Before this class, I mainly understood an Artificial Intelligence product as a model, tool, or automated feature. After the class, I understood that the model is only one part of the product. A complete Artificial Intelligence product must solve a real user or business problem and must include data, workflow, user experience, human decisions, measures, and post-launch responsibility.
+The first class gave me the foundation for the subject. I understood that a Product Manager should begin with the problem and expected outcome, not with a preferred technology.
+2. Product is more than a feature
+My understanding is that a feature performs a specific function, while a product creates a repeated outcome for its users and customers. Adding Artificial Intelligence to an existing feature does not automatically create value. The Product Manager must ask who faces the problem, how often it occurs, what the current process is, and how the proposed product will improve the outcome.
+This topic helped me understand why a technically successful feature may still fail as a product. Users may not trust it, it may not fit their workflow, or the organisation may not be able to operate it after launch.
+3. Product Manager and Project Manager
+I understood that a Project Manager mainly focuses on execution, coordination, schedule, resources, risks, and completion. A Product Manager focuses on whether the team is solving the right problem and whether the solution creates value throughout its lifecycle.
+Both roles are important, but successful delivery does not always mean product success. A product can be delivered on time and still fail if users do not adopt it or if the expected business outcome is not achieved. This was an important change in my thinking.
+4. Role of an Artificial Intelligence Product Manager
+An Artificial Intelligence Product Manager does not need to perform the complete work of a data scientist, but must understand enough to connect the business problem with the technical output. The Product Manager should ask what data is required, what the model predicts or generates, what errors can occur, who will use the output, and what decision follows.
+I understood that the Product Manager translates business language into a clear product and Artificial Intelligence task. For example, “reduce customer complaints” is a business objective. The technical task may involve classifying complaint intent, detecting an unusual service event, estimating resolution time, or recommending the next action.
+5. Influence without formal authority
+The Product Manager works with engineering, data science, design, operations, legal, sales, support, and leadership. The Product Manager may not directly control these teams. Therefore, influence must come from evidence, customer understanding, clear priorities, and sensible trade-offs.
+I found this useful because cross-functional teams often measure success differently. The Product Manager has to create a common understanding of the problem and the intended outcome.
+6. Product lifecycle thinking
+I understood that product management starts before development and continues after launch. The lifecycle includes opportunity identification, discovery, problem definition, design, development, testing, launch, monitoring, improvement, scaling, and retirement.
+Earlier, I considered launch as the completion point. After this class, I understood that launch begins a new learning stage. This is especially important for Artificial Intelligence products because data and model behaviour can change after deployment.
+7. Artificial Intelligence should not be the starting point
+One of my strongest learnings is that Artificial Intelligence should be selected only when it creates additional value. Some problems may be solved better through a rule, search tool, dashboard, or process improvement. Artificial Intelligence is more appropriate when the task involves changing patterns, prediction, recommendation, language, images, or generation that fixed rules cannot handle adequately.
+I would now compare the Artificial Intelligence option with a simpler baseline before recommending it. I would also ask what new cost, uncertainty, and governance risk the Artificial Intelligence option introduces.
+8. Example that helped my understanding
+A predictive-maintenance example helped me understand the difference between a model and a complete product. A model may predict that equipment has a high failure risk. However, the product must also show supporting evidence, fit the maintenance-planning workflow, consider technician capacity, allow a human decision, record the inspection outcome, and measure whether downtime was avoided. The prediction alone does not create the complete business value.
+9. How my thinking changed
+•	I moved from technology-first thinking to problem-first thinking.
+•	I now separate a model, a feature, a project, and a complete product.
+•	I understand that delivery completion and product success are different.
+•	I now see monitoring and improvement as part of the product lifecycle.
+•	I understand that model quality must connect with user, operational, and business outcomes.
+10. My practical application
+When I analyse an Artificial Intelligence product idea, I will first identify the user, buyer, beneficiary, current workflow, repeated problem, and desired outcome. I will then compare simple alternatives with Artificial Intelligence and define how the output will support a real decision. I will not treat model accuracy as the only measure of success.
+I can apply this approach in project-based and operational organisations where technical feasibility, delivery schedule, customer need, operating capacity, and business value may not automatically align.
+11. Questions and limitations I noticed
+•	The boundaries between Product Manager, Project Manager, Business Analyst, and Programme Manager may differ across organisations.
+•	A Product Manager may be accountable for outcomes without controlling budget, data access, or engineering capacity.
+•	The required technical depth of an Artificial Intelligence Product Manager may vary by industry and risk level.
+•	The balance between rapid experimentation and governance will be different for consumer products and high-risk products.
+12. Final reflection
+Class 1 changed my understanding of the subject. Management of AI Products is not only about selecting an algorithm. It is about making responsible product decisions under uncertainty. The Product Manager must protect the customer problem, connect the technical possibility with business value, coordinate different stakeholders, and continue learning after launch.
+My key takeaway is that Artificial Intelligence creates value only when the organisation can convert the output into a useful, trusted, and accountable action. This understanding will guide how I study the remaining classes.
 
