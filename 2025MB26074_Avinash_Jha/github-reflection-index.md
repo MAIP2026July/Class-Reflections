@@ -30,8 +30,4 @@ This repository contains the complete series of **one-page personal class reflec
 
 ---
 
-## Standardization & Submission Policy
 
-1. **Format**: All files are authored in native GitHub-flavored Markdown (`.md`).
-2. **Naming Convention**: Files follow standard kebab-case naming (`session-XX-[mon]-[day]-reflection.md`).
-3. **Execution Posture**: Written from the first-person perspective of an accountable AI Product Manager ("I will..."), emphasizing practical decisioning and contextual trade-offs.
