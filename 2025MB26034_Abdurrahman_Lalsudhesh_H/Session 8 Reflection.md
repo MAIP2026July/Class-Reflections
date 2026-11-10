@@ -1,0 +1,22 @@
+# Session 8 Reflection
+
+**Date:** 3 October 2026  
+**Topic:** AI Reliability, RAG, Prototyping, Progressive Automation & Product Governance  
+
+The biggest takeaway from today’s session was realizing that **getting an AI system to work once is very different from building an AI product that works reliably in production.** Traditional software has trained me to expect relatively deterministic behavior: given the same code and conditions, the outcome should generally remain predictable. AI introduces another layer of uncertainty, which means monitoring, fallbacks, governance, and progressive validation have to be designed into the product from the beginning.
+
+**Key takeaways & thoughts:**
+
+* **AI Reliability Goes Beyond Model Accuracy:** An AI system can behave differently even when the application itself hasn't changed. Variability can come from the probabilistic nature of the model as well as changes happening at the provider level. This makes production monitoring especially important. A successful development test or demo only proves that the system worked under those conditions; it doesn't guarantee that the same quality will continue after deployment.
+
+* **RAG Isn't a Replacement for Deterministic Logic:** The RAG discussion reinforced the idea from earlier sessions that we shouldn't use AI simply because we can. RAG makes sense when the problem requires retrieving relevant information from a large knowledge base and using that context to generate an answer. But deterministic calculations, validations, and business rules should remain deterministic where consistency matters. The better product architecture may therefore combine APIs, rules, traditional software, retrieval, and LLMs rather than forcing the entire workflow through a single model.
+
+* **Design for Vendor Flexibility, but Don't Assume Models Are Interchangeable:** Avoiding complete dependence on one AI provider is good product strategy, particularly when pricing, model behavior, latency, or availability can change. However, making providers technically pluggable doesn't mean they are behaviorally interchangeable. Two models receiving the same prompt can still produce meaningfully different outputs, and abstraction or translation layers can introduce additional latency and complexity. Vendor portability therefore needs to be treated as an architectural trade-off rather than a simple switch.
+
+* **Prototype → Pilot → Scale Should Represent Increasing Evidence:** I previously thought of a prototype mostly as an early version of the final product. The stronger distinction is that a prototype exists to prove whether an idea can work, while a pilot tests whether it actually works with real users and real operational conditions. Scaling should only happen after those assumptions survive outside the controlled environment. A polished demo can establish technical feasibility, but it cannot establish product viability on its own.
+
+* **Learn Before Automating:** One of the most practical ideas was to resist automating the entire workflow immediately. Keeping parts of the process manual during the early stages can reveal edge cases, incorrect assumptions, and decision patterns that would otherwise be hidden inside the automation. Human overrides and fallback paths should therefore be intentional parts of the initial product design. Automation can then increase gradually as evidence and confidence improve, rather than being treated as an all-or-nothing decision.
+
+* **Governance Should Create Decision Gates, Not Bureaucracy:** Prototype and MVP briefs should clearly define what each stage is expected to prove and what evidence determines the next step. The outcome doesn't always have to be "go." A no-go, rework, or change in approach can be equally valuable if the evidence shows that the original hypothesis was wrong. Good governance should prevent endless feature additions and subjective decision-making while still allowing teams to move quickly.
+
+The broader lesson for me is that **AI product development is really a process of progressively reducing uncertainty.** Each stage should answer a specific question and increase our confidence before we invest further or remove human oversight. The goal shouldn't be to reach full automation as quickly as possible; it should be to automate only when the evidence shows that the system is reliable enough for the consequence of being wrong.
