@@ -1,9 +1,16 @@
+# Session 8 Reflection
 
-Reflection: Session 8
+**Date: 3 October 2026**  
+**Topic: AI Reliability, RAG, Prototyping, Progressive Automation & Product Governance**
 
+This session made me realise that getting an AI solution to work during development is very different from making it reliable in a real-world environment. AI systems can behave differently over time, even when nothing has changed from our side. This helped me understand why continuous monitoring is important after an AI product is deployed.
 
-This session made me realise that building an AI product is not just about selecting a good model and getting the expected output during development. Even if something works well during testing, its behaviour may change in production. The discussion around model and provider-side instability helped me understand why continuous monitoring is important.
-Another useful learning for me was around RAG and deterministic vs probabilistic outputs. Not every problem needs an LLM. For tasks where the output must be accurate and consistent every time, a normal API, calculation or rule-based solution may work better. RAG is useful when we need to retrieve information from a large knowledge base, but the overall product can be a combination of AI and traditional systems.
-I also got better clarity on prototype, pilot and MVP. A prototype mainly helps us understand whether an idea can work, while a pilot helps us see how the solution behaves with actual users. A successful demo does not necessarily mean that the product is ready to scale.
-The point I liked the most was “learn before we automate.” Instead of automating everything from the beginning, keeping some manual intervention initially can help us understand where the AI is making mistakes. Having manual overrides and fallback options also seems important, especially when the AI is uncertain.
-The governance discussion also made sense to me. Before starting each stage, we should be clear about what we are trying to prove and what success looks like. For our own project, I think this will help us start small, validate the important assumptions first, and then gradually move towards wider automation and scaling.
+The discussion on **RAG** was also useful. My understanding is that we should not use AI for every part of a product just because we can. RAG works well when we need to retrieve information from a large knowledge base, but for calculations, validations or processes where the result needs to be consistent every time, APIs or rule-based logic may be more suitable. A good AI product can therefore use a combination of AI and traditional systems.
+
+I also got better clarity on **prototype, pilot and scaling**. A prototype helps us check whether an idea can work, while a pilot helps us understand how it performs with real users and actual business conditions. A successful demo alone does not mean that the product is ready to scale.
+
+The idea of **“learn before we automate”** stood out to me the most. Instead of automating the entire process immediately, keeping humans involved initially can help us identify errors, edge cases and situations we may not have considered. As confidence in the system improves, automation can gradually increase. Having manual overrides and fallback options is also important when the AI does not behave as expected.
+
+The governance discussion also helped me understand that each stage of AI product development should have a clear purpose. We should know what we are trying to prove before moving to the next stage rather than continuously adding features.
+
+Overall, my biggest learning from this session was that building an AI product is about **gradually reducing uncertainty through testing, learning and validation**, rather than trying to achieve complete automation from the beginning.
