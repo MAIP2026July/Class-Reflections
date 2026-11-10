@@ -1,14 +1,20 @@
-Reflection: Session 9
+# Session 9 Reflection
 
-This session changed the way I think about measuring the success of an AI product. Earlier, I would have looked mainly at metrics like accuracy, precision or recall to understand whether a model is performing well. But I understood that a good model metric does not automatically mean that the product is creating value for the business.
+**Date: 10 October 2026**
 
-The discussion on **false positives and false negatives** was especially useful. Both are errors, but their impact can be completely different. For example, in a lending scenario, approving someone who later defaults creates a financial loss, while rejecting a good customer means losing a potential opportunity. So, as a product manager, it is important to understand the **cost of each type of error** rather than simply trying to maximize accuracy.
+**Topic: AI Product Metrics, Economic Cost of Errors, Tail Risk, Experimentation & Feedback Loops**
 
-Another interesting concept was **tail risk**. A model may perform very well most of the time, but a small number of serious failures can still have a major impact. This made me realise that average performance alone may not give us the complete picture, especially in products where the consequence of a wrong decision is high.
+This session made me realise that a technically accurate AI model does not always mean that we have a successful AI product. Metrics like accuracy, precision and recall are useful, but as a product manager, we also need to understand what happens to the business and the customer when the model makes a wrong decision.
 
-I also understood the importance of connecting **technical metrics with business metrics**. Instead of tracking too many KPIs, we should identify the few metrics that actually tell us whether the product is achieving its objective, such as reducing losses, improving efficiency, increasing conversion or improving customer experience. We should also look at both leading and lagging indicators because a good headline number can sometimes hide an underlying problem.
+The discussion on **false positives and false negatives** was particularly useful. Both are errors, but their business impact can be very different. For example, in a lending scenario, approving a customer who later defaults can result in a financial loss, while rejecting a good customer means losing a business opportunity. This helped me understand that we should look at the **cost of errors**, rather than focusing only on improving accuracy.
 
-The discussion on **experimentation and A/B testing** was another useful takeaway. Just because a metric improves after launching a feature does not necessarily mean that the feature caused the improvement. We need a proper comparison or control group and enough evidence before reaching a conclusion.
+Another interesting concept was **tail risk**. A model may perform well in most situations, but even a small number of serious failures can create a large impact. So looking only at average performance may not give us the complete picture, especially when the consequences of a wrong decision are high.
 
-Overall, my biggest takeaway is that AI product measurement is not only about how often the model is right. It is also about **what happens when it is wrong, how much those mistakes cost, and whether the product is actually improving the intended business outcome**. As a PM, understanding these trade\-offs seems just as important as understanding the model itself.
+I also understood the importance of connecting **technical metrics with business metrics**. Instead of tracking too many KPIs, we should focus on the metrics that actually tell us whether the product is achieving its objective, such as improving efficiency, reducing losses, increasing conversion or improving customer experience. A good overall number can sometimes hide problems underneath, so looking at both leading and lagging indicators is important.
+
+The discussion on **experimentation and A/B testing** also stood out to me. Just because a metric improves after launching a feature does not necessarily mean that the feature caused the improvement. We need proper comparison, enough data and evidence before making that conclusion.
+
+Overall, my biggest learning from this session was that measuring an AI product is not just about **how often the model is right, but also understanding the impact when it is wrong**. As a PM, we need to balance model performance with business value, customer impact and risk while making product decisions.
+
+
 
