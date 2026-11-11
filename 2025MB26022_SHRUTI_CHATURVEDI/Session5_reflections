@@ -1,1 +1,19 @@
+1. Strategic Principles & Value Creation
+  - Solving Real Friction: Adding "AI" to a feature does not grant automatic value; focus strictly on high-friction workflows, data-rich environments, and clear ROI.
+  - "Finish Job and Get Out": For non-entertainment products, success means helping users complete tasks efficiently rather than maximizing screen time.
+  - PMF vs. Novelty: Do not mistake initial user curiosity for true Product-Market Fit (PMF); repeatable, sustained value is the true test.
+  - Build vs. Buy Dynamics: External APIs provide fast deployment but introduce platform lock-in and latency risks, whereas self-hosted/open-weight models shift hardware and compute management to internal infrastructure.
+  - Organizational Learning: Some AI projects should be funded specifically to build long-term internal capabilities, even if immediate ROI is low.
 
+2. Technical Architecture & Product Design
+  - The 4-Layer AI Product Stack:
+    1. Data Layer: The datasets used for model training, fine-tuning, and operational inputs.
+    2. Model Layer: The underlying machine learning algorithms and architectures (LLMs, classification, clustering).
+    3. API Layer: The decoupling layer between front-end logic and backend models, allowing seamless model swaps as tech evolves.
+    4. UX Layer: The interface layer tasked with presenting probabilistic outputs, calibrating user trust, and handling fallback behaviors.
+  - Managing Probabilistic Outputs: Because AI outputs are non-deterministic, systems must incorporate explicit fallback paths, confidence scores, and Human-in-the-Loop safeguards for high-stakes decisions.
+
+Action Items 
+- PM Ownership of Unit Economics: Treat the PM as the "CEO of the Product" who owns ultimate responsibility for token costs, latency trade-offs, pricing models, and system performance.
+- Action Over Prolonged Debate: Establish a high-velocity experimentation culture, aiming for 48-hour prototypes over weeks of passive discussion.
+- Portfolio Governance: Set regular, predictable review rhythms without micromanaging daily priorities, and ensure PMs are not penalized when products are sunset for broader strategic portfolio reasons.
