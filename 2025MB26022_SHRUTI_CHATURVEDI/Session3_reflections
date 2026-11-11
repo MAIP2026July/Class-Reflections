@@ -1,1 +1,21 @@
+1. Key Principles & PM Mindset
+  - Traceability Matrix / Data-Driven Decisions: Product managers should maintain a traceable matrix for every decision (including research, interviews, product previews, testing feedback, and competitor actions) to understand what was done, what went wrong, and why a specific path was chosen.
+  - Custodians of Trust: PMs operate using someone else’s money, resources, and time. PMs act as custodians of trust for leadership and stakeholders rather than acting without accountability.
+  - Focus on Progress over Features: Progress (achieving agreed-upon strategic goals with stakeholders) is more important than simply adding features that customers may not use.
+  - Influence Without Authority: Modern product management relies heavily on guiding and influencing teams and resources without having direct positional authority over them.
 
+2. User Qualification & Persona Design
+  - Avoiding Ambiguous Terms: Generic terms like "user," "customer," or "business user" should be avoided because they lead to confusion. PMs must qualify specific target users (e.g., student, parent, faculty).
+  - Environmental & Physical Context: Personas must account for real-life conditions under which the product is used—such as lighting/time, education level, using the interface while wearing glasses/gloves, or cooking in a kitchen.
+
+3. Feature Prioritization & Evolving Needs
+  - Classification of Features: Products contain mandatory features (minimum customer expectations) and desirable/nice-to-have features. 
+  - Tools like conjoint analysis help statistically align specific features with target customer segments.
+  - Shifting Preferences: What is considered a desirable feature today can become a baseline expectation tomorrow due to changing human preferences across generations.
+  - Accessibility and Inclusivity: Design decisions must consider non-tech-native segments (such as senior citizens) who may struggle with forced smartphone-only interfaces.
+
+Action Items & Next Steps
+
+- Explicitly Qualify Target Users: Stop using broad terms like "user" in product deliverables; always define the exact role and context of use.
+- Maintain Decision Traceability: Document the evidence, testing metrics, and rationale behind choosing to act or not react to market and product changes.
+- Segment-Based Feature Classification: Analyze target customer segments using tools like conjoint analysis to differentiate mandatory requirements from nice-to-have features.
