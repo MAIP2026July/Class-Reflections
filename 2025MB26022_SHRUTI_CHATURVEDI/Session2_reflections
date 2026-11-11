@@ -1,1 +1,36 @@
+1. Product Management is a Continuous Process
+  - Product management does not end with launching a product. It involves continuously tracking customer feedback, measuring performance and making improvements based on changing customer needs.
+  - A PM needs to evaluate whether the product is delivering the intended value and decide what needs to be improved, expanded or discontinued.
 
+2. Focus on Customer Problems, Not Just Features
+  - One of the key learnings was the importance of understanding the actual problem a customer is trying to solve rather than directly working on a requested feature.
+  - The Jobs to Be Done (JTBD) framework helps identify the underlying customer need and ensures that the solution addresses the problem effectively.
+  - This also highlights the importance of customer discovery before moving into solution design.
+
+3. Product Strategy Involves Making Trade-offs
+  - A product strategy is not just about deciding what to build, but also about deciding what not to build.
+  - Prioritisation should consider customer impact, business value, technical feasibility and available resources.
+  - A roadmap should provide direction, but it should also evolve as we learn more about customers and the market.
+
+4. Use Data and Experimentation to Make Decisions
+  - Product decisions should be supported by customer insights, data and evidence rather than assumptions.
+  - Experimentation helps validate ideas on a smaller scale before investing in a wider rollout.
+  - Defining success metrics upfront is important to understand whether a solution is actually delivering the expected outcome.
+
+5. AI Products Require a Different Approach to Evaluation
+  - AI-powered products need additional consideration because their outputs may not always be consistent or predictable.
+  - PMs need to understand the capabilities and limitations of AI and evaluate whether it is the right solution for the customer problem.
+  - Measuring output quality, accuracy and customer value is important when building and managing AI-powered products.
+
+Takeaway
+
+Good product management starts with identifying the right customer problem, not with building more features.** As a PM, I need to spend time understanding customer needs, evaluate different solutions and make prioritisation decisions based on customer and business impact. 
+I also understood that launching a product is only one part of the journey; measuring its performance and continuously improving it are equally important.
+
+### Action Items / Areas to Explore
+
+  - Apply the Jobs to Be Done (JTBD) framework to an Everyday Essentials customer problem to better understand the need behind a feature request.
+  - Explore product discovery frameworks such as Design Thinking, Double Diamond and Opportunity Solution Trees.
+  - Practise prioritising product opportunities using customer impact, business value, effort and technical feasibility.
+  - Learn more about experimentation, including defining success metrics and validating assumptions before scaling a solution.
+  - Explore how AI-powered products are evaluated, particularly in terms of accuracy, output quality and customer experience.
