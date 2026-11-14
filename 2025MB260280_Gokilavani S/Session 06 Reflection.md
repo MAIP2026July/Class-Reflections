@@ -1,4 +1,4 @@
-Session 6 Reflection
+Session 06 Reflection
 
 Date: 5 September 2026
 
