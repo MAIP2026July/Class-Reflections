@@ -2,21 +2,16 @@ Session 10 Reflection
 
 Date: 17 October 2026
 
-Topic: AI Scalability, Customer Promise, Cost Optimization, Operational Ownership & Observability
+Topic: AI Scalability, Customer Promise, Cost Optimisation, Operational Ownership and Observability
 
-In this session, I got a great sense of the importance of not scaling an AI business just to accommodate more users or more infrastructure. The more users that are added into your system the more that factors such as cost, latency, availability and external dependencies can have an impact on the experience of the customer. The product has to still provide the same value as it becomes more popular.
+Scaling seems like something that requires you to have more users and more servers as well as more money. This session presented an opportunity to me to see that growth affects far more than infrastructure. Once the number of customers increase, costs, latency, availability and outside factors begin to influence the experience that the customer will have. It would still have to acquire the same worth on the 1000th day as it would on the first.
 
+My one focus is the customer promise! Users are much more interested in the result they are seeking then if the system is technically unavailable. This was something I learned from the Uber example: Riders may see an app that looks perfectly healthy on all their desktops, but if they never get a car, then the product has failed them. It's reliability I believe now must be evaluated from the rider's point of view.
 
-The discussion of the customer promise was very interesting. Customers are concerned whether or not they get the expected outcome rather than the technical running of the system. It was very easy to see this with Uber! If a consumer can't actually take a ride on the app, then a product's job is not done. This seemed to me to give new consideration to my concept of reliability from the customer perspective.
+The choice of models is an art between matching the data and appropriate uncertainty. When you're sending all of your requests to the most potent model, it seems to be a big show, but it's not exactly business-savvy. Simple tasks can be assigned to the smaller, cheaper models and the heavier can be kept for truly complicated tasks. Each decision comes with a compromise of quality, speed and price and the mindset of the good product manager is one that takes series consideration of all three.
 
+I know what it means to have scalable applications, well beyond just Servers. As a product grows to more users and more spots and more use cases, data quality can fall, models can degrade, way people use the product can change. Another layer added in the case of third party services as their limits become are limits as well. This showed me the extent of a product that I need to rely on other companies for the future.
 
-The other key learning was on AI cost optimisation. For some it may not be economically viable to submit a request to the most powerful AI and pay for it. Smaller / less expensive might be appropriate for a simple task and the more capable model may be used for a complex task. Model selection is not just about the technical aspect of it, it's about balancing quality, speed and cost.
+Monitoring should tell us more than whether or not the system is running! It should also indicate if the customer experience and/or business outcome are being impacted. In AI, it's important because changes to AI models, prompts or the datasets they're trained on can lead to unpredictable behavior.It's crucial in AI as input changes, for example from changes in AI models, prompts or the data used for training, can cause unpredictable changes in behavior.
 
-
-I also knew there would be more to scalability than infrastructure. Growing of a product to more customers, locations or use cases can introduce Data Quality, Model Performance, API and users behavior problems. If there are capacity or rate limits on external dependencies, it can be a restriction as well.
-
-
-I also found this discussion on observability/monitoring interesting. Beyond just indicating that the system is operating, monitoring should also provide an indication that customer interaction or business outcome is being impacted by the system. Versioning & traceability also becomes crucial with AI, as these updates can impact the behaviour of a product.
-
-
-My learning from this session was the biggest one is making sure that the customer promise is kept in tandem with the product's growth. As an AI product rolls out, it needs to be relied on with certainty, cost-effective, perform well, and meet the customer's needs.
+My greatest advice to others, is to maintain that same customer commitment with scalability. As AI gets adopted more and more, a reliable, cost-effective performance & customer expectation needs to be balanced into a successful AI product and all of these factors cannot be compromised for too long. This session definitely helped me to understand that "growth is a responsibility, not a milestone.
