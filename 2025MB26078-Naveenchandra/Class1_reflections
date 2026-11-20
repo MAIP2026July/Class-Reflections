@@ -1,0 +1,31 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class9 reflections, Oct10
+
+
+1.Managing Rather Than Coding: The AI PM's job is not building models from scratch
+Our responsibility is orchestrating the product, validating that the underlying AI hypothesis removes real customer friction, and defending business outcomes
+
+2.The Economics of the Confusion Matrix: Mathematical accuracy is dangerously misleading in business
+In lending, a 90% accurate model that misclassifies even a few bad loans still destroys profitability, because one default wipes out 40 profitable loans
+
+3.Who Bears the Cost of Errors?: PMs must map who pays for false positives versus false negatives
+In payment fraud, banks only prioritized model investments once legal frameworks shifted financial liability away from consumers directly onto institutions
+
+4.Moving Beyond Mathematical Metrics: Precision and recall hide operational truths if separated from business context
+PMs must pair offline statistical scores with real-world KPIs: operational review load, customer complaint rates, and net margin impact
+
+5.A/B Testing Against Shifting Baselines: Testing AI products on third-party cloud LLMs lacks a stable baseline
+Model providers continuously alter inference compute and run background experiments, meaning external platform changes can silently contaminate your internal product A/B tests
+
+6.Tail Risks Over Averages: High aggregate accuracy masks catastrophic edge cases
+A camera AI confusing a strapped guitar with a missing helmet highlights how systems fail unexpectedly in real environments, demanding specialized edge-case testing over aggregate benchmarks
+
+7.Evolving Measurement with Product Maturity: A metric that serves an early-stage launch becomes obsolete as the product scales
+PMs must systematically revise evaluation criteria across lifecycle stages, or they risk optimizing outdated targets while missing critical customer churn
+
+8.Frugal and Governed Feedback Loops: Not all customer feedback loops should be automated into model retraining
+PMs must actively choose which feedback signals to reinforce and which to discard, preventing erratic customer behavior from causing model over-fitting
+
+9.Accountability for the Core Promise: Features, marketing campaigns, and slick demos are merely forward-looking promises
+A product's true market viability and reputation depend entirely on whether users reliably realize actual economic value during everyday, post-launch operations
