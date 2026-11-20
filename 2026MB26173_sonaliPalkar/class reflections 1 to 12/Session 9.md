@@ -1,0 +1,12 @@
+## **MANAGEMENT OF AI PRODUCTS** 
+
+# **Session 11 – Ethics, Risk and Responsible AI Product Design** 
+
+The eleventh session focused on the ethical and practical responsibilities involved in building AI products. I understood that responsible AI is not limited to avoiding intentional wrongdoing. Bias can also arise from incomplete, unrepresentative or historically skewed data. An AI system learns patterns from the information available to it, so limited exposure can lead to assumptions and outputs that do not reflect the wider population fairly. 
+
+The discussion made me realise that fairness needs to be considered in the context of the product and the people affected by its decisions. In areas such as recruitment, lending, housing and healthcare, seemingly ordinary data or filtering choices can create discriminatory outcomes. Product teams should understand the relevant laws, industry standards and surrounding regulations, and should aim to go beyond minimum compliance where appropriate. They must also be careful about collecting personal information and ensure that every data requirement has a clear purpose. 
+
+Explainability and accountability are equally important. When an AI-supported decision affects a person, the organisation may need to explain the basis of that decision and provide a suitable review or escalation path. A product should not treat the model output as automatically correct. Human oversight, audit records and clear responsibility help ensure that decisions can be examined, challenged and improved. I also found the discussion on auditability and incident response valuable. Logs and records should help teams understand what happened, review design choices and learn from failures, rather than being used only to assign blame. AI products, particularly software-as-a-service offerings, should have appropriate fallback mechanisms, privacy safeguards and a defined response plan for cybersecurity or other incidents. Communication during an incident should be clear and specific so that affected customers understand whether they are impacted and what action is being taken. 
+
+My personal takeaway is that ethics and risk management must be built into the product lifecycle rather than treated as a final compliance check. As a product manager, I should ask whose data is represented, who could be disadvantaged, what explanation can be provided and how the organisation will respond when the system fails. The session reinforced that trust is a core product requirement and a responsibility that must be actively maintained. 
+
