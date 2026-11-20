@@ -1,0 +1,24 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class11 reflections, Oct24
+
+1.Exposure Bias Over Malice: Bias in models mirrors a child assuming all security guards are Gurkhas simply because that’s all they were exposed to
+AI isn't inherently evil; it reflects incomplete historical datasets and unexamined societal prejudices
+
+2.Moving Beyond Motherhood Statements: Saying “we ensure privacy and fairness” is an empty slogan
+A product manager must define fairness, compliance thresholds, and data governance strictly within their specific customer and industry context
+
+3.The Power of Data Minimization: You cannot leak or discriminate on data you never collected
+Dropping gender, age, and name fields from recruitment or credit workflows prevents inferred algorithmic bias while reducing regulatory audit exposure
+
+4.Mitigating Hallucination via Grounding: Generative models will hallucinate under open prompts
+Product managers must enforce RAG grounding, constrain candidate response options, and implement human review gates before outputs hit high-stakes client touchpoints
+
+5.Recourse as a Product Feature: If an algorithmic decision harms or rejects a user, they must have clear visibility into the logic
+True product accountability requires offering an accessible avenue for appeal, re-evaluation, or human escalation
+
+6.Incident Response Preparedness: When an AI model fails publicly, social media amplifies the blast radius into a PR nightmare overnight
+PMs must design containment protocols, rollback switches, and customer communication plans before launching
+
+7.Actionable Launch Gates: An ethics checklist cannot be a ceremonial rubber stamp
+PMs must define concrete blocking criteria—specifying exact failure rates, disparate impact thresholds, and security flaws that definitively halt deployment

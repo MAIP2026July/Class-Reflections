@@ -1,0 +1,34 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class4 reflections, Aug 22
+
+
+1.The AI Value Hierarchy: Do not default to foundation models
+Start with the least complex solution: deterministic if-then rules first, then retrieval analytics and search, predictive machine learning next, and generative or agentic systems only when necessary
+
+2.Question by Naveenchandra.L (Evaluation Bias Dilemma): As an innovation manager at Autoliv, Naveenchandra.L raised a practical dilemma: his AI screening model had training bias, technical SMEs favoured feasibility, and sales prioritized viability, leaving trade-offs conflicted
+
+3.Insight & Resolution for Naveenchandra.L: The instructor advised Naveenchandra.L to establish an agreed evaluation rubric across parameters, merge scores into a unified index, and accept that eliminating all human subjectivity is impossible
+
+4.Solving the Right Job-to-be-Done (JTBD): AI must serve the user's specific progress rather than engineering curiosity
+As illustrated in the Kisan Seva advisory scenario, framing the real workflow constraint matters far more than showcasing raw model intelligence
+
+5.The Adoption and Inertia Hurdle: Superior product utility doesn't guarantee adoption
+Product managers must navigate switching costs, user habits, and scepticism by providing two-way door recovery options, such as transparent refund policies and reversible workflows
+
+6.When Automation Backfires: Automating tasks that users intrinsically value destroys product satisfaction
+Efficiency isn't universal; saving transaction time degrades customer relationships if users derive enjoyment or social connection from the manual interaction
+
+7.Auditable Reasoning Over Black Boxes: In regulated sectors like automotive or healthcare, unexplainable predictions fail governance audits
+PMs must reject vendors hiding behind proprietary IP and demand documented data lineage and defensible reasoning
+
+8.Focus on Outcomes, Not Tooling: Avoid pitching dissertations or roadmaps around specific algorithms like NLP or deep learning
+Locking into a technical mechanism blinds teams; PMs must prioritize measurable customer outcomes and keep underlying models interchangeable
+
+9.Continuous Steering Beyond Launch: Launching an AI product isn't a one-and-done missile launch; it requires continuous course correction
+PMs must constantly collect post-launch signals, test pre- and post-AI baselines, and adjust models against silent performance drift
+
+10.Ownership of the Decision Trail: Cross-functional partners own their respective functional silos, but the PM carries ultimate accountability for the core product hypothesis, human-in-the-loop oversight, fallback triggers, and the final go/no-go launch decision
+
+
+

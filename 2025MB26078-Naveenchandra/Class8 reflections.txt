@@ -1,0 +1,24 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class8 reflections, Oct03
+
+1.Provider Instability vs. Model Probability: Cloud-hosted LLM harnesses like Claude and Open AI fluctuate unpredictably in performance
+PMs must separate underlying probabilistic model variance from upstream provider instability, compute throttling, or silent background model switches
+
+2.Insight by Naveenchandra.L (Automotive Safety companion): Naveenchandra.L pitched an AI assistant for crashworthiness safety engineers overwhelmed by hundreds of 200+ page regulatory documents, helping onboarding engineers query technical requirements before consulting senior SMEs
+
+3.Market Scope vs. Internal Tool Trap: When Naveenchandra.L framed the companion for internal Autoliv workflows, the instructor pushed back: build for global OEMs and tier-1 suppliers, not just one employer, turning an internal project into a marketable product
+
+4.The Single-Threaded Owner Mindset: Adopting Amazon's single-threaded owner model ensures PMs tie personal success directly to their product's outcome
+Treating an AI product as merely one of several side tasks guarantees failure
+
+5.Prototypes Answer Questions, Not Code: Never build the flashiest prototype first. Align fidelity to learning objectives: use UI mock-ups to test workflow adoption, data prototypes for inventory forecasting, and lightweight fakes to resolve the costliest operational unknown
+
+6.The MVP Boundary (Learning vs. Value): Calling every internal test an MVP corrupts learning
+Prototypes validate feasibility internally; an MVP forces real external users to change their behaviour and absorb operational costs in live production
+
+7.Avoiding Staged Automation Illusions: Wizard-of-Oz or concierge setups test workflows quickly, but hidden manual labour doesn't scale
+If manual back-office tasks hide behind automated demos, teams deceive themselves on operating margins and unit economics
+
+8.RAG Boundaries & Deterministic Traps: Commercial insurance and crash simulations prove generic RAG fails on arithmetic and strict guidelines
+PMs must decouple semantic search from deterministic rule engines instead of expecting LLMs to calculate risk math

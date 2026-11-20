@@ -1,0 +1,30 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class2 reflections, Aug 1
+
+1.Project vs. Product Mindset: Transitioning from solving a bespoke problem for a single known client to building for countless unknown users is fundamental
+Products require scalable abstractions, whereas projects merely satisfy immediate contract deliverables
+
+2.The Continuous Product Lifecycle: The lifecycle doesn’t finish at launch; it spans discovery, planning, build, growth, and retirement or renewal
+In AI, planning for decommissioning and model deprecation is just as critical as initial deployment
+
+3.Insight by Naveenchandra.L (TRL and Tollgates): Naveenchandra.L connected the lifecycle to automotive Technology Readiness Levels (TRL 1–9)
+Because hardware volumes hit millions, every gate requires strict multi-stakeholder tollgate reviews before committing massive capital and manufacturing resources
+
+4.Decision Gates and Expectations: Decision gates protect teams from blind momentum when alpha or beta feedback disappoints
+Agreeing on measurable kill, pause, or proceed criteria upfront prevents emotional misalignment across executive stakeholders when realities shift
+
+5.Artifacts Anchor Accountability: Crisp documentation—from PRDs and PRFAQs to experimental briefs—separates disciplined product thinking from wishful conversations
+Written artifacts create a shared audit trail for design choices, hypotheses, and intended trade-offs across functional teams
+
+6.Clarifying Decision Rights (RACI): PMs own the product promise, but organizational ambiguity destroys execution
+Establishing clear RACI matrices defines who drives, approves, contributes, and escalates, ensuring decisions don't stall when technical uncertainty triggers disagreements
+
+7.AI-Native vs. AI-Assisted: Ground-up AI products rely on data flywheels where usage directly improves underlying model performance
+Retrofitting AI into legacy workflows often adds superficial novelty without creating sustainable defensibility or solving genuine user pain
+
+8.Probabilistic Thinking Over Determinism: Traditional software is deterministic, but AI outputs operate across probability distributions
+Modern product managers must shift from binary bug tracking to managing statistical confidence thresholds, acceptable failure rates, and graceful fallbacks
+
+9.Professional Services and Customer Risk: When deploying probabilistic tools, professional services must validate edge cases and recovery protocols
+PMs safeguard the core product promise, but customers ultimately own how predictions get applied inside high-stakes legal workflows

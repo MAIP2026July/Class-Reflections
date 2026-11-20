@@ -1,0 +1,27 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class5 reflections, Aug 29
+
+1.The "Double Bearing" Trap: Calling a product "AI-powered" without delivering measurable user value is marketing fluff
+Customers won't pay for empty buzzwords; they pay when operational friction is eliminated and repeatable workflows actually improve
+
+2.The Four-Layer AI Stack: Product architectures must be separated into Data, Model, API, and UX layers
+Standardizing through APIs prevents vendor lock-in, ensuring the underlying model remains a pluggable utility rather than a rigid dependency
+
+3.UX for Probabilistic Systems: Generic legal disclaimers fail users
+The UX layer must communicate uncertainty, display confidence thresholds, and provide visible evidence trails so customers don't place blind trust in hallucinatory outputs
+
+4.Strategic Opportunity Scoring: Strategy is not about adopting every trendy capability; it is about having the discipline to reject weak ideas
+Opportunities must be strictly scored on user pain, frequency, feasibility, and time-boxed urgency
+
+5.Internal Supply Chain vs. P&L Products: Internal multi-vendor software represents a procurement supply chain challenge
+Only products packaged and sold directly to external markets carry true P&L accountability, demanding unit economics and margin scrutiny
+
+6.The Human-in-the-Loop Fatigue: Human oversight is an operational bottleneck, not an effortless safety net
+When reviewers face aggressive operational time pressure, fatigue causes rubber-stamping, completely eroding trust and system governance
+
+7.Midterm Case-Based Reality: Midterm evaluations test executive decision-making under uncertainty, not textbook recall
+Strict one-page constraints per sub-question penalize unstructured text dumping and demand concise, high-conviction recommendations
+
+8.Managing the Management: When human reviewers behave erratically, it stems from how leadership measures them
+Product managers must proactively negotiate realistic evaluation KPIs with executive leadership rather than measuring superficial task volumes

@@ -1,0 +1,18 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class6 reflections, Sep05
+
+
+1.Translating Business to ML: Translating ambiguous business needs into concrete ML prediction targets is the PM's hardest job. Optimizing intermediate model accuracy fails if it ignores operational constraints like regional inventory availability and supplier lead times.
+
+2.The Measurement Dilemma (Heisenberg Effect): Every telemetry probe introduces friction. Logging excessive prompt tokens, latencies, and user signals inflates operating expenses and introduces data privacy risks. PMs must deliberately balance system observability against unnecessary operational strain.
+
+3.Coarse vs. Feature-Based Sentiment: Thumbs-up ratings and document-level sentiment hide actionable truths. Product managers require feature-level breakdowns—such as separating battery performance from display quality—to prioritize engineering sprints and resolve specific user friction points.
+
+4.The Opinion Mining Quintuple: Structuring unstructured reviews into the quintuple framework—object, feature, sentiment, holder, and timestamp—transforms messy feedback into auditable data. Capturing temporal and contextual conditions (e.g., daylight vs. low-light camera performance) prevents misguided feature roadmaps.
+
+5.Uncovering Emotional and Social Signals: Customer feedback often hides emotional dynamics beyond physical specs. A buyer mentioning family disapproval reveals purchase anxiety and price sensitivity, signalling that pricing clarity and reassurance matter just as much as hardware features.
+
+6.Linguistic Pitfalls in NLP Extraction: Automating feedback extraction faces messy realities: sarcasm, slang, coreference resolution, and synonyms. Relying blindly on automated NLP pipelines without human-in-the-loop spot-checks risks propagating distorted customer sentiment into core product roadmaps.
+
+7.Reputation Portability and Walled Gardens: Seller ratings and product reputations remain trapped within platform silos like Amazon or Flipkart. Decentralized protocols like ONDC demonstrate the growing demand for portable reputation, allowing businesses to retain earned customer trust across ecosystems

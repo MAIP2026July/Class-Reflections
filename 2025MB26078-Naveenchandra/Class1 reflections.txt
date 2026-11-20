@@ -1,0 +1,22 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class1 reflections,July25 
+
+
+
+1.PM as the Product CEO: Visualizing the product manager as the CEO means owning both the core problem and the ultimate business outcome
+We cannot celebrate team wins while deflecting failures onto engineering or design
+
+2.Insight by Naveenchandra.L (Killing Products): Naveenchandra.L raised a crucial perspective that PMs are responsible for product retirement
+Knowing when to pull the plug and sunset an obsolete lifecycle is just as critical as launching new features
+
+3.Question by Naveenchandra.L (The "Thankless Job" Dilemma): Naveenchandra.L sparked an honest debate asking if product management is fundamentally a thankless job
+The instructor reframed daily friction into the fulfilling perspective of long-term organizational growth and mentorship
+
+4.Riding the Disruption Wave: We cannot halt the rapid disruption brought by AI, leaving us no choice but to ride the wave
+Resisting shifts guarantees getting swallowed, making continuous hands-on experimentation essential for every leader
+
+5.The Three Pillars of AI: AI operates across three distinct layers in this course: tools to accelerate building software, workflows to produce rigorous PM artifacts, and intelligent capabilities embedded directly inside user-facing products
+
+6.Influence Beyond Direct Authority: Product managers rarely possess direct line authority over cross-functional peers
+Real leadership requires earning trust, clearly communicating trade-offs, and rallying engineering, business, and design teams behind a unified promise

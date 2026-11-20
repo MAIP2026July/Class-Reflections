@@ -1,0 +1,20 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class7 reflections, Sep12
+
+
+1.B2B SaaS vs. Utility Operations: Product managers must distinguish between operating an electricity utility and selling software to them. Our market opportunity exists solely because cash-strapped distribution companies lack the technical capability to build intelligent telemetry internally
+
+2.Value-Based Pricing over Cost-Plus: Cost-plus pricing leaves money on the table when client value is high. Pricing utility software around saved peak-power wastage and avoided regulatory penalties unlocks far higher willingness-to-pay than merely counting commodity development hours
+
+3.The 20% Surplus Rule: When pricing B2B software, suppliers can realistically capture only 15% to 25% (benchmark 20%) of total customer value generated
+Demanding 100% of the surplus destroys client motivation, while taking under 15% becomes unviable charity
+
+4.Understanding Political Motivations: Selling to public utilities requires mapping real executive incentives. Bureaucrats tolerate operational losses, but elected board chairs dread viral outage complaints
+Positioning software around protecting public sentiment accelerates public-sector procurement cycles
+
+5.Designing for Spatial Uncertainty: GPS inaccuracy creates probabilistic confusion between adjacent feeders. The UX must gracefully query whether an outage affects a user's physical presence or billing address, actively refining confidence thresholds through real-time crowd feedback
+
+6.Transferability and Adjacency: A spatial outage-detection engine built for electricity grids naturally transfers to municipal water, gas, or broadband networks. Disciplined PMs architect core engines for cross-utility scale while deploying thin domain wrappers for adjacent expansion
+
+7.Launch is Just Day One: General Availability isn’t the finish line—it is merely the birth of the product. Sustaining AI products demands post-launch stamina to continuously monitor drift, bridge turnaround expectations, and preserve fragile user trust

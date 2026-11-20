@@ -1,0 +1,29 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class10 reflections, Oct17
+
+
+1.Scale Is a Promise, Not Just Traffic: Scaling AI is not merely provisioning server compute for traffic spikes; it is defending our core product promise as user dependencies, workflow criticality, and failure costs compound
+
+2.The Margin Collapse Behind Demos: Slick prototypes burning $20–$40 in API calls look dazzling during client demos, but real customer adoption will quickly decimate unit margins if inference cost-to-serve is unbudgeted
+
+3.Owning the Quality-Latency-Cost Sweet Spot: Engineers will push large frontier LLMs for accuracy or cut to tiny models for speed
+The PM must authoritatively define the acceptable operational trade-off range balancing cost, latency, and quality
+
+4.Creative Routing Over Brute-Force Models: Generative AI products survive through routing, caching, and tiering, not by routing every query to the most capable model
+Micro-LLMs can classify intent and route routine tasks to cheap SLMs
+
+5.Semantic Versioning for Model Lineage: Model updates require strict versioning beyond standard software SemVer
+When a new model underperforms in a specific sub-segment, teams must have the lineage and routing to selectively roll back
+
+6.The Hidden Risk of Upstream Provider Churn: Relying on third-party cloud APIs leaves teams vulnerable to silent deprecations and changes
+If a provider terminates an older stable version, your fallback safety net suddenly vanishes
+
+7.Alerts as Business Commitments: Operational monitoring cannot be dumped onto platform DevOps
+Just as with utility outage telemetry, PMs must own the proactive alerting rules that flag metric degradation before customers churn
+
+8.Multi-Tenant Fair Use and Noisy Neighbors: Shared API endpoints risk high-volume enterprise users crowding out low-tier segments
+Designing tiered queue policies and rate limits ensures noisy neighbors do not compromise core SLA commitments
+
+9.Frugal MLOps Automation: Avoid premature, complex automation pipelines before the product thesis is proven in production
+Automate only the critical deployment and monitoring checks that safeguard customer trust, avoiding costly engineering overhead

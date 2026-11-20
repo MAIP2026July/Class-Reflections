@@ -1,0 +1,28 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class3 reflections, Aug 18
+
+
+1.Caterpillar vs. Butterfly Transformation: Real transformation isn't making a caterpillar crawl 10% faster; it’s an order-of-magnitude leap into a butterfly
+Slapping AI onto legacy workflows for minor efficiency gains is incremental optimization, not genuine product transformation
+
+2.Moat Erosion via Democratized Knowledge: Domain expertise used to be our primary moat
+Today, LLMs democratize domain knowledge, allowing customers and competitors to build bespoke tools quickly
+PMs must deliver deeper workflow integration to remain defensible.
+
+3.Course Correction in a Live Race: Product roadmaps aren't static flight plans; they operate like guided missiles tracking moving targets
+When competitor moves or user behaviours shift, PMs must decisively drop, reprioritize, or accelerate features without hesitation
+
+4.Technology as Disposable Utility: When discussing transformer architectures, the takeaway was clear: PMs have no religion except customer value Whether using encoder-decoder or decoder-only models, tech is a swap-in tool, not an untouchable sacred cow
+
+5.Product vs. Project Continuity: Unlike project managers who disband after delivery, product managers maintain multi-version continuity
+We must defend our team from mercenary leadership, rally morale through crunches, and champion long-term customer outcomes
+
+6.Exposing the Riskiest Hypotheses: Lean Canvas isn't an academic checklist; it forces teams to surface and attack their most fragile assumptions
+Identifying where value, user adoption, and regulatory compliance could fail saves months of misguided development
+
+7.Traceable Decision Metrics: Every product trade-off requires documented evidence and traceable metrics
+Capturing why features succeeded or failed creates an institutional audit trail, ensuring teams don't repeat expensive mistakes while managing stakeholder capital responsibly
+
+8.Servant Leadership in Product Management: True product leadership demands taking tomatoes and eggs when things collapse while giving credit away during wins
+PMs must serve their team, protect team culture, and align incentives over rigid corporate mandates

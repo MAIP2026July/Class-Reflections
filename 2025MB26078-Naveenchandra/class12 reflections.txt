@@ -1,0 +1,22 @@
+Naveenchandra.L
+2025MB26078@wilp.bits-pilani.ac.in
+Class12 reflections, Oct31
+
+
+1.Target Costing (Japanese Manufacturing Philosophy): Forward cost-plus pricing creates unviable products
+Adopt backward target costing: determine customer willingness-to-pay based on derived value, subtract the required profit margin, and strictly design the product architecture to match
+
+2.The Asymmetry of Value vs. Cost: Customers happily pay for business outcomes and delivered value, but vendors incur costs based on raw inputs like compute and tokens
+Product managers must bridge this fundamental commercial asymmetry
+
+3.Inference Margin Traps: When customers fall in love with an unoptimized generative AI feature, soaring API consumption decimates gross margins
+If adoption growth accelerates operational losses, the underlying business model is fundamentally broken
+
+4.Downselling for Cohort Retention: When enterprise clients realize they are overpaying for unneeded compute tiers, proactively suggest downgrades
+Churn is far more expensive than lower contract values; preserving account retention safeguards long-term customer lifetime value
+
+5.Architecture as a Finance Problem: Model routing, context-window sizing, and caching are financial decisions, not just technical choices
+Orchestrating micro-models and small language models directly dictates unit economics, latency trade-offs, and operating margins
+
+6.Contribution Margin by Workflow Variant: Software products feature varied usage paths, from automated classifications to expensive generative loops
+PMs must track contribution margins per sub-workflow to aggressively promote profitable features while throttling margin-draining capabilities
