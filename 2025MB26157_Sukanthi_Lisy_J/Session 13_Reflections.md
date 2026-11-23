@@ -1,0 +1,15 @@
+# Personal Reflection – Session 13
+
+This lecture reinforced my understanding that building an AI product is not primarily about the technology; it is about solving a meaningful problem and creating value that customers are willing to pay for. I found the professor’s repeated challenge of asking *“Why should someone pay for this?”* particularly relevant. A product may have impressive features and a working prototype, but unless it addresses a genuine need, demonstrates measurable value, and has a viable business model, it may not succeed.
+
+One key takeaway for me is the distinction between **building a product and delivering a project**. A solution designed for one customer may work well, but a product must be scalable, repeatable, and relevant to multiple customers. Going forward, I would evaluate ideas not only based on whether they solve the immediate problem, but also on whether they can evolve into a sustainable product.
+
+I also found the discussion on **customer adoption and behavioral change** valuable. We often assume that users will adopt a new solution simply because it is better or more efficient. However, people may be comfortable with existing processes and reluctant to change. I would therefore focus more on understanding users' motivations, adoption barriers, and the actual benefits they experience rather than assuming that a technically superior solution will automatically gain acceptance.
+
+Another important learning was to look beyond the AI component and evaluate the entire business. Domain understanding, technical feasibility, regulatory considerations, customer behavior, pricing, operating costs, marketing, and maintenance all influence product success. I particularly agree that financial assumptions should be stress-tested rather than presented as optimistic projections. I would use realistic scenarios to evaluate whether the product remains viable when costs increase, customer adoption is slower, or expected savings are lower.
+
+I also appreciate the emphasis on **responsible AI implementation**. AI should not be used indiscriminately across every workflow. Where accuracy, safety, or compliance is critical, deterministic rules, verified data, appropriate guardrails, and human review may be more suitable. I would also ensure that uncertainty and potential risks are communicated clearly to users rather than relying only on disclaimers.
+
+While I agree with the importance of commercial viability and customer adoption, I believe product decisions should also consider long-term trust, user experience, and the consequences of unintended outcomes. Short-term efficiency or cost savings should not come at the expense of reliability or customer confidence.
+
+Overall, this lecture changed how I evaluate AI product ideas. I would now approach product development with a stronger focus on the problem, customer value, adoption, economics, scalability, and risk—not simply the capabilities of AI. My biggest takeaway is that **a successful AI product is one where technology, business value, customer needs, and responsible execution come together.**
