@@ -1,7 +1,6 @@
 # Class Reflections – Srishti Shrivastava 2025MB26194
 
 MBA ZG583 – Management of AI Products  
-One personal learning reflection for each class session.
 
 | Session | Date | Topic | File |
 |---|---|---|---|
@@ -19,7 +18,3 @@ One personal learning reflection for each class session.
 | 12 | 31 October 2026 | Buildable PRDs, diagrams, pricing and unit economics | [Session 12 Reflection](Session_12_Reflection.md) |
 | 13 | 14 November 2026 | Project presentations day 1 | [Session 13 Reflection](Session_13_Reflection.md) |
 | 14 | 21 November 2026 | Project presentations day 2 and Wayfinder AI | [Session 14 Reflection](Session_14_Reflection.md) |
-
-## AI use disclosure
-
-An AI assistant was used to help structure and edit these drafts. The course concepts come from the supplied class references. Each reflection should be reviewed and personalized by the student before submission, especially where a real workplace example can be added.
