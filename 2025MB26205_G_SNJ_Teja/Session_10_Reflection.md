@@ -1,0 +1,7 @@
+# Session 10 Reflection
+
+**Date:** 17 October 2026
+
+The line I wrote down from this class was that if a team is talking about servers instead of the promise made to the customer, it is missing the point. WhatsApp is free, yet people are annoyed if it's down for an hour, because they judge it by what they've come to expect, not by the terms of service. The idea of a customer promise matrix (what we promise each segment and whether we keep it) made more sense to me than tracking uptime alone.
+
+The main topic was the latency, cost and quality trade-off, and the professor was clear that setting the acceptable range is the PM's job, for example an answer within 45 seconds, at a minimum quality and within a cost limit. Otherwise one engineer picks a small fast model and another picks an expensive one, and both think they are right. I also liked choosing predictability over raw speed. The discussion on rate limits reminded me of something I saw at work, where a system hit its connection limit and rejected new sessions instead of queueing them. Technically it's the same constraint, but failing immediately and waiting 30 seconds are very different experiences for the person on the other end. Other points I noted: version prompts, models and data and not just code, watch for noisy neighbours in shared setups, be careful that caching never shows one customer's answer to another, and use smaller models for structured tasks like classification and routing.

@@ -1,0 +1,7 @@
+# Session 9 Reflection
+
+**Date:** 10 October 2026
+
+The part of this class I remember best is the live Excel sheet. The professor built a payoff matrix for a ₹1 lakh loan at a 2.5% spread, and by changing the numbers in the four cells he showed that a model with over 90% accuracy can still lose the bank money, while a less accurate one can make a profit. One bad loan wipes out the earnings from roughly 40 good ones, so the errors are not equal. When a classmate suggested recall as the right metric, the professor didn't pick precision or recall at all. He asked us to put rupees in each cell and see who gains and who pays. That was a different way of looking at evaluation for me, and I think it's easier to explain to a business owner than a percentage.
+
+A few other points connected to my own work. If testers are rewarded only by the number of bugs found, they may hold bugs back instead of raising them early, so even a sensible metric can drive the wrong behaviour. Metrics should also change as the product grows, otherwise you can miss signs like new sign-ups falling while revenue still looks fine. On A/B tests for AI, a jump in rating from 4.5 to 4.8 means little without sample size and significance, especially when the vendor may be changing the model at the same time. For my own project, I want to price a wrong reply in terms of what it costs the school, like a parent who doesn't come back, rather than only reporting accuracy.

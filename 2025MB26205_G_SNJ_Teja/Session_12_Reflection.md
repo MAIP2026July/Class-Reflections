@@ -1,0 +1,7 @@
+# Session 12 Reflection
+
+**Date:** 31 October 2026
+
+The first half was a live review of one team's PRD, and the advice applied to all of us. A PRD should read like a contract given to an outside vendor with your own money at stake. Words like "accurate," "user-friendly" or "reduce time" leave room for argument, so each needs a number, ideally in a separate target column so it can be changed later. Hard-coding things like a fixed list of 12 medicines limits the product later. The PRD should also show where AI sits in the workflow, with its expected reliability, cost and when a human steps in. The tip I've already started using is to give the PRD to an AI and ask what questions it would need answered before building it. If the AI has many questions, a vendor will too.
+
+I was introduced to PlantUML and Mermaid for swimlane diagrams. Keeping diagrams as text means they can sit in Git and show changes like code, which I liked as someone who works with version control daily. The C4 model was also useful, with the PM mainly needing the context and container views. The second half on monetisation covered target costing (start from what the customer will pay, subtract margin, and that's your cost ceiling), customers paying for outcomes while vendors pay for inputs, and stress-testing pricing against heavy usage because inference cost grows with it. The Oracle licensing examples, where per-connection or per-core licences shaped the architecture, felt familiar from my own work.
